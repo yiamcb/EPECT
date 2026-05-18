@@ -1,2 +1,2 @@
 # EPECT
-Eigenvalue-Guided Positional Encoding Classification Transformer for Cross-Subject EEG-fNIRS Decoding
+This Repo Contains Code Snippets that have been used in the development of EPECT Framework.
